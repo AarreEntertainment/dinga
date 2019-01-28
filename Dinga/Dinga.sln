@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinga", "Dinga.csproj", "{6A3AA826-99B2-1C7F-BB25-7B0CF79FB1CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinga.Plugins", "Dinga.Plugins.csproj", "{FA6B3107-2326-578E-F92C-C82BB3211126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinga.Editor.Plugins", "Dinga.Editor.Plugins.csproj", "{0058C66A-618C-9814-393D-5D31AA1EAAB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A3AA826-99B2-1C7F-BB25-7B0CF79FB1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3AA826-99B2-1C7F-BB25-7B0CF79FB1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3AA826-99B2-1C7F-BB25-7B0CF79FB1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3AA826-99B2-1C7F-BB25-7B0CF79FB1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA6B3107-2326-578E-F92C-C82BB3211126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6B3107-2326-578E-F92C-C82BB3211126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6B3107-2326-578E-F92C-C82BB3211126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6B3107-2326-578E-F92C-C82BB3211126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0058C66A-618C-9814-393D-5D31AA1EAAB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0058C66A-618C-9814-393D-5D31AA1EAAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0058C66A-618C-9814-393D-5D31AA1EAAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0058C66A-618C-9814-393D-5D31AA1EAAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
